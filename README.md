@@ -1,2 +1,2 @@
 # Haskell - FP
-Haskell labs for the Functional Programming course (2nd year, FMI Unibuc)
+Haskell labs for the Functional Programming course (1st semester, 2nd year, FMI Unibuc)
